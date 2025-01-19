@@ -33,6 +33,8 @@ Once tests are run, HTML report will be available and screenshots and videos in 
 ```sh
 npx playwright show-report
 ```
+The report will open in your default browser
+<img width="817" alt="Image" src="https://github.com/user-attachments/assets/900e698c-80df-4ba7-acdc-5e98fb1d9dce" />
 Screenshots and videos will be available in `/test-results` folder
 
 ## Solution explanation and enhancements
